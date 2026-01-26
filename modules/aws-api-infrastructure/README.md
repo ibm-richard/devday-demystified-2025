@@ -1,3 +1,3 @@
-# AWS S3 static website bucket
+# Private API
 
-This module provisions AWS S3 buckets configured for static website hosting.
+This module provides infrastructure for publishing lighweight functions to be callable by other internal teams.
